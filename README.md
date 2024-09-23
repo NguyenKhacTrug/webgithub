@@ -1,4 +1,31 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>My self</title>
+    <div style="text-align:center;"><h1 style="color:seagreen;"><i>LÝ LỊCH HỌC SINH<hr></i></h1></div>
+    <style>
+        table {border-collapse: collapse;}
+   table, th, td {border: 2px solid black;}
+   </style>
+</head>
+<body>
+    <ul>
+        <li>
+            <b>Thông tin cá nhân</b>
+            <ol>
+                <li>Tên: Nguyễn Khắc Trung</li>
+                <li>Tuổi: 18</li>
+                <li>Ngày sinh: 03/12/2005</li>
+                <li>SĐT: 033571****</li>
+                <li>Địa chỉ: Cư xá Lữ Gia</li>
+                <li>Email: trung@gmail.com</li>
+            </ol>
+        </li>
+        <li>
+            <b>Kế hoạch học tập</b>
+            <table width="500">
+                <tr style="color:darkslateblue;" bgcolor="#f5f5dc">
                     <th>Môn học</th>
                     <th>Thời gian</th>
                     <th>Mục tiêu</th>
@@ -46,7 +73,6 @@
                 <i style="color:red"><u>Bản đồ</u>:</i>
                 <br><img src="../images/lyrs=s,h&x=52184&y=30795&z=16.jpg" width="500" height="200">
             </div></b>
-
         </li>
     </ul>
     <ul>
@@ -62,4 +88,4 @@
         <iframe width="500" height="300" src="https://www.youtube.com/embed/DGbyzLE9Za8" title="Lần Cuối - Ngọt ft Hà Lê live at #inthemoonlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </ul>
 </body>
-</html
+</html>
